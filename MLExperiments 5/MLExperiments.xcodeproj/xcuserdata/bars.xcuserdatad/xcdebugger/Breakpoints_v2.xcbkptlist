@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DA85F1B4-A158-4DBF-888A-2989E1B0FDF9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAE887CD-270F-46BB-B5CD-282A9B221FAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/CoreMLHelpers/UIImage+CVPixelBuffer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "init?(pixelBuffer:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0ABAE679-7647-4EB1-93E1-448956F67B2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "590"
+            endingLineNumber = "590"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "0ABAE679-7647-4EB1-93E1-448956F67B2E - 60468e16d599e067"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MLExperiments.ImageProcessor.cropImage(_: __C.UIImage, toRect: __C.CGRect, viewWidth: CoreGraphics.CGFloat, viewHeight: CoreGraphics.CGFloat) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "0ABAE679-7647-4EB1-93E1-448956F67B2E - 60468e16d599e0a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MLExperiments.ImageProcessor.cropImage(_: __C.UIImage, toRect: __C.CGRect, viewWidth: CoreGraphics.CGFloat, viewHeight: CoreGraphics.CGFloat) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80FDD31B-26FE-416F-86E0-0B40E785E21A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/MLExperiments-awfejovralgqlkgvmvlpukcftrut/Index.noindex/Build/Intermediates.noindex/MLExperiments.build/Debug-iphoneos/MLExperiments.build/DerivedSources/CoreMLGenerated/gfpgan/gfpgan.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "prediction(input:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "443B7E1C-3202-470C-A238-EF7FD8D0AA40"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/MLExperiments-awfejovralgqlkgvmvlpukcftrut/Index.noindex/Build/Intermediates.noindex/MLExperiments.build/Debug-iphoneos/MLExperiments.build/DerivedSources/CoreMLGenerated/gfpgan/gfpgan.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "prediction(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "968689ED-C68D-41C7-B512-1D68ED13B9B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/MLExperiments-awfejovralgqlkgvmvlpukcftrut/Index.noindex/Build/Intermediates.noindex/MLExperiments.build/Debug-iphoneos/MLExperiments.build/DerivedSources/CoreMLGenerated/gfpgan/gfpgan.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "247"
+            endingLineNumber = "247"
+            landmarkName = "prediction(x_1:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "599DB536-24B6-4C9C-822C-1C66CCCDD275"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "385"
+            endingLineNumber = "385"
+            landmarkName = "predictionImageBySegments(image:model:imageRects:progress:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "599DB536-24B6-4C9C-822C-1C66CCCDD275 - c3c2d7d96f950133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MLExperiments.ImageProcessor.predictionBySegments(image: __C.UIImage, model: MLExperiments.Model, progress: (Swift.Int) -&gt; (), completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+               <Location
+                  uuid = "599DB536-24B6-4C9C-822C-1C66CCCDD275 - f49cfb05ef3d2e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in MLExperiments.ImageProcessor.predictionBySegments(image: __C.UIImage, model: MLExperiments.Model, progress: (Swift.Int) -&gt; (), completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "599DB536-24B6-4C9C-822C-1C66CCCDD275 - fec64522a58f799c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in MLExperiments.ImageProcessor.predictionBySegments(image: __C.UIImage, model: MLExperiments.Model, progress: (Swift.Int) -&gt; (), completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0085C273-184C-4C23-9F89-D4B3993B219A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "loadModel(model:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0085C273-184C-4C23-9F89-D4B3993B219A - 9f978076a87f4f70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MLExperiments.ImageProcessor.getCurrentModel(model: MLExperiments.Model) -&gt; Swift.Optional&lt;__C.VNCoreMLModel&gt;"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1364">
+               </Location>
+               <Location
+                  uuid = "0085C273-184C-4C23-9F89-D4B3993B219A - 9f978076a87f4f70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MLExperiments.ImageProcessor.getCurrentModel(model: MLExperiments.Model) -&gt; Swift.Optional&lt;__C.VNCoreMLModel&gt;"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F18C384D-7A7C-497D-AEDD-BCAD775DA784"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "prediction(image:model:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5811131B-4FEB-406E-AF7E-339F9EFC7F24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "prediction(image:model:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5811131B-4FEB-406E-AF7E-339F9EFC7F24 - 8269efe838f4f5ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MLExperiments.ImageProcessor.prediction(image: __C.UIImage, model: MLExperiments.Model, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "5811131B-4FEB-406E-AF7E-339F9EFC7F24 - 2ccc8b7599dbe1a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in MLExperiments.ImageProcessor.prediction(image: __C.UIImage, model: MLExperiments.Model, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D1F8270-8AC3-4A38-BAA1-494F0F57C222"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "loadModel(model:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D1F8270-8AC3-4A38-BAA1-494F0F57C222 - b2c7def8856d27f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MLExperiments.ImageProcessor.loadModel(model: MLExperiments.Model, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "3D1F8270-8AC3-4A38-BAA1-494F0F57C222 - 2abc9bf284d5977"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.MLModel, Swift.Error&gt;) -&gt; () in MLExperiments.ImageProcessor.loadModel(model: MLExperiments.Model, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImageProcessor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B20AB3A-FB79-4043-9DE2-AC5528707FA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "loadModel(model:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3186C0D-5BB0-44D6-87EB-44D0F49DC2DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "loadModel(model:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39960383-4993-46AA-8BAF-0CB8B43D748C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "loadModel(model:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E15ECED-E71E-4E95-B090-632DC2640070"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "376"
+            endingLineNumber = "376"
+            landmarkName = "predictionImageBySegments(image:model:imageRects:progress:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B25E15E2-B91D-4F94-86F3-3AB3F0D58CA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "393"
+            endingLineNumber = "393"
+            landmarkName = "predictionImageBySegments(image:model:imageRects:progress:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44D11519-0805-47C7-B004-0D14364CC1D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "loadModel(model:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D939442-E6BF-45B8-9BA8-9696A7EE7BE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImagePicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D939442-E6BF-45B8-9BA8-9696A7EE7BE6 - 13f6a8c721ed75f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MLExperiments.ImagePicker.Coordinator.imagePickerController(_: __C.UIImagePickerController, didFinishPickingMediaWithInfo: Swift.Dictionary&lt;__C.UIImagePickerControllerInfoKey, Any&gt;) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImagePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "2D939442-E6BF-45B8-9BA8-9696A7EE7BE6 - dfb18579ea839a9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MLExperiments.ImagePicker.Coordinator.imagePickerController(_: __C.UIImagePickerController, didFinishPickingMediaWithInfo: Swift.Dictionary&lt;__C.UIImagePickerControllerInfoKey, Any&gt;) -&gt; ()"
+                  moduleName = "MLExperiments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bars/Documents/Projects/iOS/MLExperiments/MLExperiments/ImagePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CF87A64-8516-4F81-94BC-5C27B2136EE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "predictImage(image:model:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5448C0AD-3A73-45A7-A58B-5CAEC0095F83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ImageProcessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "337"
+            endingLineNumber = "337"
+            landmarkName = "predictionBySegments(image:model:progress:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E57A3C30-2D46-49D3-A2B7-236378C28325"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MLExperiments/ZoomableScrollView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "updateUIViewController(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
